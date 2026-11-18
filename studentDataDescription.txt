@@ -1,0 +1,33 @@
+This database contains 21 attributes. 
+  
+------------------------
+
+Variable to be predicted: Label
+- Fail 
+- Pass
+
+------------------------
+
+Independent Variables
+
+      -- 1. ExtrinsicMotivation: motivated to get a good grade; valid values range from 0.0 to 10.0       
+      -- 2. GroupWork: prefers working in groups to working alone; valid values range from 0.0 to 10.0        
+      -- 3. IntrinsicMotivation: motivation by a desire to learn new skills; valid values range from 0.0 to 10.0  
+      -- 4. SelfEfficacy: "I believe I can do well"; valid values range from 0.0 to 10.0   
+      -- 5. SelfRegulation: "I test myself while studying to make sure I understand it."; valid values range from 0.0 to 10.0  
+      -- 6. StudyEffort: "when I am studying I make good use of my time"; valid values range from 0.0 to 10.0  
+      -- 7. StudyTime: "I put time aside each week for studying"; valid values range from 0.0 to 10.0  
+      -- 8. Openness: "I like learning new things."; valid values range from 0.0 to 10.0  
+      -- 9. Conscientiousness: "I am organised,  and will persist at a task. "; valid values range from 0.0 to 10.0  
+      -- 10. HighSchoolAverage: average grade in secondary school; valid values range from 0.0 to 100.0    
+      -- 11. HighSchoolEnglish:   English grade leaving secondary school; valid values range from 0.0 to 100.0  
+      -- 12. HighSchoolMaths:   Maths grade leaving secondary school; valid values range from 0.0 to 100.0   
+      -- 13. AcademicYear: year student enrolled in first year college; valid values: 2015, 2016, 2017
+      -- 14. Sex: gender of the student; valid values: male and female    
+      -- 15. Age: the age of the student; valid values range between 18 and 51
+      -- 16. Discipline: area of course of study; 4 valid values: Humanities, Computing, Business and Engineering 
+      -- 17. Course: course of study; 9 valid values: Computing, AppliedSocialCare, Business, CommunityDev , CreativeDigitalMedia, EarlyChildCare, Engineering, InternationalBusiness and BusinessWithIT
+      -- 18. Modality: How you like to take in information; 3 valid values: Kineastheic - means learn by doing; Auditory - means learn by listening and talking; Visual - means learn by reading of from graphs and charts. 
+      -- 19. LearningStyle; 3 valid values: Deep - learner learns to undestand; Shallow - learner learns off without understanding; Strategic - will adopt a deep or shallow learning depending on what is required to do well. 
+      -- 20. id - student id
+
